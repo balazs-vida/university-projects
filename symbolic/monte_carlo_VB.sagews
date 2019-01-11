@@ -1,4 +1,3 @@
-︠2a0b5a25-f914-4a11-9ff2-da366685c66ds︠
 import random
 import math
 random.seed(0)
@@ -26,15 +25,3 @@ def pontok(n = slider(1000, 20000, step_size=1000)):
     t = var('t')
     kor = parametric_plot((cos(t), sin(t)), (t, 0, pi/2),  color='black')
     show(belso_pontok+kulso_pontok+kor)
-
-
-︡f2900872-dac5-44c1-a21b-5592dbe6af85︡{"interact":{"controls":[{"animate":true,"control_type":"slider","default":0,"display_value":true,"label":"n","vals":["1000","2000","3000","4000","5000","6000","7000","8000","9000","10000","11000","12000","13000","14000","15000","16000","17000","18000","19000","20000"],"var":"n","width":null}],"flicker":false,"id":"3827ddb7-76d0-409b-9da3-c646e6afe4bc","layout":[[["n",12,null]],[["",12,null]]],"style":"None"}}︡{"done":true}︡
-
-
-
-
-
-
-
-
-
