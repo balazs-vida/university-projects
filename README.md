@@ -1,5 +1,5 @@
 # university-projects
-This repository contains some of my university assignments that had a coding part to them. 
+This repository contains some of my university assignments that have a coding part to them. 
 
 ## Design and analysis of algorithms 2
 http://ewkiss.web.elte.hu/html/ujbsc/english/BSc/at5a_en.html
