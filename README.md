@@ -9,7 +9,7 @@ The goal of this assignment was to provide a short but substantive introduction 
 ## Numerical analysis 2
 http://ewkiss.web.elte.hu/html/ujbsc/english/BSc/na5a_en.html
 
-In this assignment I implemented a third-order Runge--Kutta formula with an embedded second-order method (cf. Bogacki--Shampine method).
+In this assignment I implemented an adaptive third-order Runge--Kutta formula with an embedded second-order method (cf. the Bogacki--Shampine method).
 
 ## Symbolic mathematical programs
 http://ewkiss.web.elte.hu/html/ujbsc/english/BSc/sp3m_3a_en.html
